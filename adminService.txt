@@ -1,7 +1,11 @@
 this is admin
 add user 
 update user
+<<<<<<< HEAD
 delete  all user
+=======
+delete new user
+>>>>>>> b43559b79ed4b4327927c9eaaafd0f006adbb6cf
 
 
 change for feature3 in main
