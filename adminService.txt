@@ -1,7 +1,7 @@
 this is admin
 add user 
 update user
-delete user
+delete new user
 
 
 change for feature3 in main
